@@ -11,3 +11,12 @@ __pycache__/
 .DS_Store
 *.save
 README.local-backup.md
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+__pycache__/
+*.py[cod]
+.DS_Store
+*.save
+.pytest_cache/
